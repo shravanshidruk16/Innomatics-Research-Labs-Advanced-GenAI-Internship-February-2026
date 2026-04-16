@@ -1,0 +1,16 @@
+Name: Rushik Kokate
+
+Skills:
+- Python, Basic Machine Learning
+- Data Analysis
+
+Tools:
+- Pandas, NumPy
+- Matplotlib
+
+Experience:
+- 6 months internship in Data Analysis
+
+Projects:
+- Sales data analysis using Python
+- Basic ML model using Scikit-learn

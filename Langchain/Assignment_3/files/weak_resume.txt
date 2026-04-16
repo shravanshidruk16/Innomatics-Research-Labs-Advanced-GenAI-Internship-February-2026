@@ -1,0 +1,14 @@
+Name: Rupesh Shete
+
+Skills:
+- C, C++
+- Basic HTML, CSS
+
+Tools:
+- None related to Data Science
+
+Experience:
+- Fresher
+
+Projects:
+- College website using HTML

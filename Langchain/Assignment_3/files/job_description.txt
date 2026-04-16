@@ -1,0 +1,23 @@
+Job Title: Data Scientist
+
+Requirements:
+- Strong knowledge of Python programming
+- Experience with Machine Learning algorithms
+- Good understanding of Statistics and Probability
+- Experience with SQL for data querying
+- Familiarity with data visualization tools
+
+Tools:
+- Pandas, NumPy
+- Scikit-learn
+- TensorFlow or PyTorch
+- Matplotlib / Seaborn
+
+Experience:
+- 1 to 3 years of experience in Data Science or related field
+
+Responsibilities:
+- Build and evaluate machine learning models
+- Perform data cleaning and preprocessing
+- Analyze datasets to extract insights
+- Communicate findings using visualizations

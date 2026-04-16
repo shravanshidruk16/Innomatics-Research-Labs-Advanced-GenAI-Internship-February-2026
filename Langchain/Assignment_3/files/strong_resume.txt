@@ -1,0 +1,17 @@
+Name: Shravan Shidruk
+
+Skills:
+- Python, Machine Learning, Deep Learning
+- SQL, Statistics, Data Analysis
+
+Tools:
+- Pandas, NumPy, Scikit-learn, TensorFlow
+- Matplotlib, Seaborn
+
+Experience:
+- 2 years as Data Scientist at ABC Tech
+- Built ML models for prediction and classification tasks
+
+Projects:
+- Customer churn prediction using ML
+- Sentiment analysis using NLP
